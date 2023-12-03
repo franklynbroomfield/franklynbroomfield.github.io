@@ -13,7 +13,7 @@
 
 <div class="w3-panel w3-pale-yellow w3-leftbar w3-border-yellow">
 <p><strong>Note:</strong> This tutorial will not teach you how servers are processing input.
-Processing input is explained in our <a href="/php/default.asp" target="_blank">PHP tutorial</a>.</p>
+Processing input is explained in our <a href="https://www.w3schools.com/php/default.asp" target="_blank">PHP tutorial</a>.</p>
 </div>
 
 </body>
